@@ -1,0 +1,134 @@
+{
+  "categorias": [
+    {
+      "titulo": "Nil Agra",
+      "cor": "#6BD1FF",
+      "link_extra":{
+        "text":"Canal no YouTube",
+        "url":"https://www.youtube.com/user/MrGalvao23"
+      },
+      
+      "videos": [
+        {
+          "titulo": "O que é Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=jiOd8GHBBUs"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=G2rDZJpHVZg"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EnTuyO0uwmE"
+        },
+        {
+          "url": "hhttps://www.youtube.com/watch?v=GPp1zMvNYNA"
+        },
+        {
+          "url": "hhttps://www.youtube.com/watch?v=_hXwJVVl7vo"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=QcHoMDykGVk"
+        }    
+      ]
+    },
+    {
+      "titulo": "Afonso Padilha",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal no Youtube",
+        "url": "https://www.youtube.com/channel/UCCqoc2as2nMEXoZPlwXei4g"
+      },
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wHM-d_rucTs"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WdjUwA648Uo"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=FPs2RQ85Jms"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=6FCOgerF_jM"
+        }, 
+        {
+          "url": "https://www.youtube.com/watch?v=RGAiWD5hOvA"
+        }
+      ]
+    },
+    {
+      "titulo": "Thiago Ventura",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal no Youtube",
+        "url": "https://www.youtube.com/user/thiagosouzapires"
+      },
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=75fK0iwhxdE"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=7K-pP-CcrAM"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=R288k4p6ZkU"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Q2LDobhGHm4"
+        },
+        {
+          "url":"https://www.youtube.com/watch?v=BGE4D3XmKo4"
+        }
+      ]
+    },
+    {
+      "titulo": "Victor Camejo",
+      "cor": "#6BD1FF",
+      "link_extra":{
+        "text":"Canal no YouTube",
+        "url":"https://www.youtube.com/c/VictorCamejo/featured"
+      },
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=EW4GT6Ptg8I"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=CNZf5R2Ie1I"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EoQxniPPX5o"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=OVwoutvoAdo"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=d-qbwRjMMIU"
+        }
+      ]
+    },
+    {
+      "titulo": "Marcus Cirillo",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal no YouTube",
+        "url": "https://www.youtube.com/results?search_query=marcus+cirillo"
+      },
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=oOa4ceohhKA"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8Xzhg98Smp4"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zyQE8vW3FMQ"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=oJ-DRQALook"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_OU2atCG5ZQ"
+        }
+      ]
+    }
+  ]
+}
