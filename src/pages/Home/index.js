@@ -14,7 +14,6 @@ function Home() {
       <BannerMain 
         videoTitle={dadosInicias.categorias[0].videos[0].titulo}
         url={dadosInicias.categorias[0].videos[0].url}
-        videoDescription={"Um pouco sobre o assunto!"}
       />
 
       <Carousel
