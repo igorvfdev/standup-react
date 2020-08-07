@@ -1,0 +1,10 @@
+{
+  "humorista":[
+      {
+          "id": 1,
+          "nome": "Nil Agra",
+          "contatos": "nilagra.com.br",
+          "cor":"#6bd1ff"
+      }
+  ]
+}
